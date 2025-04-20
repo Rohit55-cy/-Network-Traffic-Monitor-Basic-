@@ -19,5 +19,5 @@ A Python-based tool to capture and analyze network traffic in real-time using Sc
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/network-traffic-monitor.git
+   git clone https://github.com/Rohit55-cy/-Network-Traffic-Monitor-Basic-.git
    cd network-traffic-monitor
